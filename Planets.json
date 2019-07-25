@@ -1,0 +1,59 @@
+{
+  "Datacollectiondate": "07/25/2019 12:00:00 AM",
+  "Category": {
+    "Name": "Planets",
+    "Series": 1,
+    "Belongsto": "SolarSystem",
+    "TotalCount": "8",
+    "PlanetDetail": [
+      {
+        "PlanetName": "Mercury",
+        "radius": "2439.7km",
+        "position": "1",
+        "relativetosun": "inner"
+      },
+      {
+        "PlanetName": "Venus",
+        "radius": "6051.8km",
+        "position": "2",
+        "relativetosun": "inner"
+      },
+      {
+        "PlanetName": "Earth",
+        "radius": "6371km",
+        "position": "3",
+        "relativetosun": "inner"
+      },
+      {
+        "PlanetName": "Mars",
+        "radius": "3389.5km",
+        "position": "4",
+        "relativetosun": "inner"
+      },
+      {
+        "PlanetName": "Jupiter",
+        "radius": "69911km",
+        "position": "5",
+        "relativetosun": "outer"
+      },
+      {
+        "PlanetName": "Saturn",
+        "radius": "58232km",
+        "position": "6",
+        "relativetosun": "outer"
+      },
+      {
+        "PlanetName": "Uranus",
+        "radius": "25362km",
+        "position": "7",
+        "relativetosun": "outer"
+      },
+      {
+        "PlanetName": "Neptune",
+        "radius": "24622km",
+        "position": "8",
+        "relativetosun": "outer"
+      }
+    ]
+  }
+}
